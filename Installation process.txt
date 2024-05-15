@@ -1,0 +1,7 @@
+for windows-------https://www.jenkins.io/doc/book/installing/windows/#:~:text=After%20downloading%2C%20installing%20and%20running,you%20can%20continue%20accessing%20Jenkins.
+
+For Ubuntu------https://www.jenkins.io/doc/book/installing/linux/
+
+
+wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
+if error come
